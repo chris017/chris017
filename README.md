@@ -1,13 +1,9 @@
 
-## Hello, I'm Chris! 👋
+## Hello, I'm Chris! 👋🏻
 
-I'm a young and passionate computer engineer with a strong interest in all things digital and visual design. With an insatiable curiosity and a desire to continuously learn and grow, I never shy away from a challenge.
+I am a tech wizard🪄 who transforms ideas into reality. 
 
-As the saying goes, "achievement is largely the product of steadily raising one's levels of aspirations and expectation." This is a philosophy that I embody both personally and professionally, always striving to reach new heights and exceed expectations.
-
-I'm particularly fascinated by cutting-edge technologies like Blockchain and AI, and I make it a point to stay on top of the latest developments in these fields. Let's collaborate and push the boundaries of what's possible together!
-
-Feel free to check out my projects and don't hesitate to get in touch. Let's make something amazing! 💻🌟
+Feel free to check out my projects and don't hesitate to get in touch. Let's make something amazing! 💻
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://christian-schmid-portfolio.de)
